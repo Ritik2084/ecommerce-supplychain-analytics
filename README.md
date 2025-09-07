@@ -19,6 +19,13 @@ Excel → Storing query outputs & initial analysis
 
 Power BI → Interactive dashboards(upcoming)
 
+
+**output..**
+  
+[Click here to access the dataset](https://drive.google.com/drive/folders/1GljIwnMIRrITS0AhuYvCBum_5qJEzCwc?usp=sharing)
+
+
+
 **KPIs & Metrics Analyzed**
 1. Sales Metrics
 
