@@ -22,7 +22,7 @@ Power BI → Interactive dashboards(upcoming)
 
 **output..**
   
-[Click here to access the dataset](https://drive.google.com/drive/folders/1GljIwnMIRrITS0AhuYvCBum_5qJEzCwc?usp=sharing)
+[Click here to access the output](https://drive.google.com/drive/folders/1GljIwnMIRrITS0AhuYvCBum_5qJEzCwc?usp=sharing)
 
 
 
