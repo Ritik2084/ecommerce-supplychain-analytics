@@ -81,3 +81,5 @@ Delivery Performance by Region
 /outputs          → Excel outputs from queries
 /data (optional)  → Sample data files (if needed)
 README.md         → Project documentation
+<img width="855" height="620" alt="image" src="https://github.com/user-attachments/assets/858eaef4-b121-4fb9-92e8-d0399c917865" />
+
