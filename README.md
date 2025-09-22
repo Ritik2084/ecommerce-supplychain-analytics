@@ -17,7 +17,7 @@ SQL → Data cleaning & KPI calculations
 
 Excel → Storing query outputs & initial analysis
 
-Power BI → Interactive dashboards(upcoming)
+Power BI → Interactive dashboards
 
 
 **output..**
