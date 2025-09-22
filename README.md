@@ -1,6 +1,6 @@
 # ecommerce-supplychain-analytics
 Project Overview
-This project analyzes the Olist Brazilian E-commerce dataset using SQL and Excel (Power BI dashboards coming soon).
+This project analyzes the Olist Brazilian E-commerce dataset using SQL and Excel (Power BI dashboards).
 The focus is on supply chain and operations KPIs: sales trends, customer behavior, product performance, seller efficiency, and payment methods.
 
 Source: Olist Brazilian E-commerce Dataset 
