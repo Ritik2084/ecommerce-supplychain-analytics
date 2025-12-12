@@ -1,5 +1,8 @@
 # ecommerce-supplychain-analytics
 [Excel Dashboard](https://github.com/Ritik2084/ecommerce-supplychain-analytics/blob/main/Olist%20Excel%20Dashboard.pdf)
+[Power BI Dashboard](https://github.com/Ritik2084/ecommerce-supplychain-analytics/blob/main/Olist%20E-Commerce%20Analysis.pdf)
+[Data Models](https://github.com/Ritik2084/ecommerce-supplychain-analytics/blob/main/data%20models.png)
+
 
 
 
