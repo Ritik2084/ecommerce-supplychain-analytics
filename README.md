@@ -77,11 +77,12 @@ Seller Ratings(Need improvement)
 5. Payment Metrics
 
 Most Used Payment Types
-<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/81efadc6-8d0d-46f4-8bbd-d037ca077808" />
+<img width="601" height="369" alt="image" src="https://github.com/user-attachments/assets/eb4052a0-412b-4492-a5e9-40e8732c09a0" />
+
 
 
 Average Payment Value per Type
-<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/dfdb5653-470d-4a70-b4f4-77c2b1e45665" />
+<img width="236" height="109" alt="image" src="https://github.com/user-attachments/assets/79edf594-da43-4356-a913-5f4084837f59" />
 
 
 Installment Usage
