@@ -35,25 +35,38 @@ Total Orders, Revenue, Average Order Value
 
 Top Cities by Orders
 
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/28cca81f-021f-4e22-b0be-15dc4c4c25a3" />
+
+
 2. Customer Metrics
 
 Repeat vs New Customers
+<img width="568" height="269" alt="image" src="https://github.com/user-attachments/assets/9510ea46-3f18-4a3f-a4c2-79352cf89310" />
+
 
 Average Orders per Customer
+<img width="280" height="106" alt="image" src="https://github.com/user-attachments/assets/458def9e-c866-4e5e-9d7c-a12f78c9b911" />
 
 3. Product Metrics
 
 Top-Selling Categories
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/2eaab584-dae5-4c2e-9dec-5f5ed611b692" />
+
 
 Revenue per Category
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/5f19abc3-1842-43a3-aedc-40ead857c70a" />
 
 Slow-Moving Products
+<img width="480" height="298" alt="image" src="https://github.com/user-attachments/assets/844f19d3-389b-409e-b5d4-87969a766d65" />
 
 4. Seller & Vendor Metrics
 
 Top Sellers by Revenue
 
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/f226d0dd-6074-4eaf-9784-a21e5220637a" />
+
 Average Delivery Time per Seller
+
 
 Seller Ratings
 
