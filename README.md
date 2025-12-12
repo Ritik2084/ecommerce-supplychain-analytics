@@ -30,6 +30,8 @@ Power BI → Interactive dashboards
 1. Sales Metrics
 
 Total Orders, Revenue, Average Order Value
+<img width="536" height="114" alt="image" src="https://github.com/user-attachments/assets/e738554a-2dd4-46af-8a7e-69b2ffa6b9ac" />
+
 
 Top Cities by Orders
 
