@@ -67,14 +67,22 @@ Top Sellers by Revenue
 
 Average Delivery Time per Seller
 
+<img width="601" height="375" alt="image" src="https://github.com/user-attachments/assets/04c63d66-3cef-41cc-9c89-54ac12e41c0c" />
 
-Seller Ratings
+
+Seller Ratings(Need improvement)
+<img width="610" height="575" alt="image" src="https://github.com/user-attachments/assets/f0097786-4268-49ca-ad7a-147ab9aabe60" />
+
 
 5. Payment Metrics
 
 Most Used Payment Types
+<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/81efadc6-8d0d-46f4-8bbd-d037ca077808" />
+
 
 Average Payment Value per Type
+<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/dfdb5653-470d-4a70-b4f4-77c2b1e45665" />
+
 
 Installment Usage
 
