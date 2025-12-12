@@ -108,6 +108,8 @@ Delayed Orders %
 
 
 Delivery Performance by Region
+<img width="1200" height="720" alt="image" src="https://github.com/user-attachments/assets/d7ef1f99-ad06-4b97-bde3-32a158d0e5e8" />
+
 
 /sql              → SQL query scripts
 /outputs          → Excel outputs from queries
