@@ -1,7 +1,5 @@
 # ecommerce-supplychain-analytics
 
-[Olist E-Commerce Analysis.pdf](https://github.com/user-attachments/files/24133685/Olist.E-Commerce.Analysis.pdf)
-[Olist Excel Dashboard.pdf](https://github.com/user-attachments/files/24133692/Olist.Excel.Dashboard.pdf)
 <img width="1060" height="457" alt="data models" src="https://github.com/user-attachments/assets/6bb637af-ba88-4dc5-89bf-dfc35c0f8822" />
 
 Project Overview
