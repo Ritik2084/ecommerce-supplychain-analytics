@@ -88,15 +88,24 @@ Installment Usage
 
 6. Customer Satisfaction
 
+
 Review Score Distribution
+<img width="336" height="125" alt="image" src="https://github.com/user-attachments/assets/32b761e2-94f0-43d1-9805-94a26f3ba4e6" />
+
 
 Low-Rated Products & Categories
+<img width="644" height="241" alt="image" src="https://github.com/user-attachments/assets/6ab027e7-02cb-4a20-96d0-c00f03cdb3e1" />
+
 
 7. Operational Metrics
 
 Average Delivery Time
+<img width="262" height="92" alt="image" src="https://github.com/user-attachments/assets/9730ae0c-5aa2-4fe5-b6eb-3980a0a0452a" />
+
 
 Delayed Orders %
+<img width="323" height="117" alt="image" src="https://github.com/user-attachments/assets/1d20766b-53d2-4bbf-8b44-294f5d882012" />
+
 
 Delivery Performance by Region
 
@@ -104,5 +113,5 @@ Delivery Performance by Region
 /outputs          → Excel outputs from queries
 /data (optional)  → Sample data files (if needed)
 README.md         → Project documentation
-<img width="855" height="620" alt="image" src="https://github.com/user-attachments/assets/858eaef4-b121-4fb9-92e8-d0399c917865" />
+
 
