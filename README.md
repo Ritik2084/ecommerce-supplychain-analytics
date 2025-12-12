@@ -20,8 +20,7 @@ The focus is on supply chain and operations KPIs: sales trends, customer behavio
 
 Source: Olist Brazilian E-commerce Dataset 
 
-##  Data Access
-Due to file size limits, raw data files are stored in Google Drive:  
+##  Data Access  
 [dataset](https://drive.google.com/drive/u/1/folders/1WwHwB-OuGVx990PSRC1CZY6nfg-3tfYj)
 
 Size: ~100k orders, multiple tables (customers, orders, items, sellers, payments, reviews, products, geolocations).
@@ -35,7 +34,7 @@ Excel → Storing query outputs & initial analysis
 Power BI → Interactive dashboards
 
 
-**output..**
+#output.
   
 [output](https://drive.google.com/drive/folders/1GljIwnMIRrITS0AhuYvCBum_5qJEzCwc?usp=sharing)
 
