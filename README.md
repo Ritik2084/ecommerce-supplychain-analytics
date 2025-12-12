@@ -44,10 +44,12 @@ Power BI → Interactive dashboards
 1. Sales Metrics
 
 Total Orders, Revenue, Average Order Value
+
 <img width="536" height="114" alt="image" src="https://github.com/user-attachments/assets/e738554a-2dd4-46af-8a7e-69b2ffa6b9ac" />
 
 
 Top Cities by Orders
+
 
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/28cca81f-021f-4e22-b0be-15dc4c4c25a3" />
 
@@ -55,10 +57,14 @@ Top Cities by Orders
 2. Customer Metrics
 
 Repeat vs New Customers
+
+
 <img width="568" height="269" alt="image" src="https://github.com/user-attachments/assets/9510ea46-3f18-4a3f-a4c2-79352cf89310" />
 
 
 Average Orders per Customer
+
+
 <img width="280" height="106" alt="image" src="https://github.com/user-attachments/assets/458def9e-c866-4e5e-9d7c-a12f78c9b911" />
 
 3. Product Metrics
@@ -68,9 +74,13 @@ Top-Selling Categories
 
 
 Revenue per Category
+
+
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/5f19abc3-1842-43a3-aedc-40ead857c70a" />
 
 Slow-Moving Products
+
+
 <img width="480" height="298" alt="image" src="https://github.com/user-attachments/assets/844f19d3-389b-409e-b5d4-87969a766d65" />
 
 4. Seller & Vendor Metrics
@@ -85,44 +95,60 @@ Average Delivery Time per Seller
 
 
 Seller Ratings(Need improvement)
+
+
 <img width="610" height="575" alt="image" src="https://github.com/user-attachments/assets/f0097786-4268-49ca-ad7a-147ab9aabe60" />
 
 
 5. Payment Metrics
 
 Most Used Payment Types
+
+
 <img width="601" height="369" alt="image" src="https://github.com/user-attachments/assets/eb4052a0-412b-4492-a5e9-40e8732c09a0" />
 
 
 
 Average Payment Value per Type
+
+
 <img width="236" height="109" alt="image" src="https://github.com/user-attachments/assets/79edf594-da43-4356-a913-5f4084837f59" />
 
 
-Installment Usage
+
 
 6. Customer Satisfaction
 
 
 Review Score Distribution
+
+
 <img width="336" height="125" alt="image" src="https://github.com/user-attachments/assets/32b761e2-94f0-43d1-9805-94a26f3ba4e6" />
 
 
 Low-Rated Products & Categories
+
+
 <img width="644" height="241" alt="image" src="https://github.com/user-attachments/assets/6ab027e7-02cb-4a20-96d0-c00f03cdb3e1" />
 
 
 7. Operational Metrics
 
 Average Delivery Time
+
+
 <img width="262" height="92" alt="image" src="https://github.com/user-attachments/assets/9730ae0c-5aa2-4fe5-b6eb-3980a0a0452a" />
 
 
 Delayed Orders %
+
+
 <img width="323" height="117" alt="image" src="https://github.com/user-attachments/assets/1d20766b-53d2-4bbf-8b44-294f5d882012" />
 
 
 Delivery Performance by Region
+
+
 <img width="1200" height="720" alt="image" src="https://github.com/user-attachments/assets/d7ef1f99-ad06-4b97-bde3-32a158d0e5e8" />
 
 
