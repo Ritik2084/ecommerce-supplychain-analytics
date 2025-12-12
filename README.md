@@ -1,9 +1,14 @@
 # ecommerce-supplychain-analytics
+[SQL Queries](https://github.com/Ritik2084/ecommerce-supplychain-analytics/tree/main/sql%20queries)
+
 [Excel Dashboard](https://github.com/Ritik2084/ecommerce-supplychain-analytics/blob/main/Olist%20Excel%20Dashboard.pdf)
 
 [Power BI Dashboard](https://github.com/Ritik2084/ecommerce-supplychain-analytics/blob/main/Olist%20E-Commerce%20Analysis.pdf)
 
 [Data Models](https://github.com/Ritik2084/ecommerce-supplychain-analytics/blob/main/data%20models.png)
+
+
+
 
 
 
@@ -17,7 +22,7 @@ Source: Olist Brazilian E-commerce Dataset
 
 ##  Data Access
 Due to file size limits, raw data files are stored in Google Drive:  
-[Click here to access the dataset](https://drive.google.com/drive/u/1/folders/1WwHwB-OuGVx990PSRC1CZY6nfg-3tfYj)
+[dataset](https://drive.google.com/drive/u/1/folders/1WwHwB-OuGVx990PSRC1CZY6nfg-3tfYj)
 
 Size: ~100k orders, multiple tables (customers, orders, items, sellers, payments, reviews, products, geolocations).
 
@@ -32,7 +37,7 @@ Power BI → Interactive dashboards
 
 **output..**
   
-[Click here to access the output](https://drive.google.com/drive/folders/1GljIwnMIRrITS0AhuYvCBum_5qJEzCwc?usp=sharing)
+[output](https://drive.google.com/drive/folders/1GljIwnMIRrITS0AhuYvCBum_5qJEzCwc?usp=sharing)
 
 
 
