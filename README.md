@@ -78,7 +78,7 @@ Revenue per Category
 
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/5f19abc3-1842-43a3-aedc-40ead857c70a" />
 
-Slow-Moving Products
+Low-Selling Products
 
 
 <img width="480" height="298" alt="image" src="https://github.com/user-attachments/assets/844f19d3-389b-409e-b5d4-87969a766d65" />
